@@ -1,6 +1,6 @@
 ## Microsoft Power BI Reports and Dashboards
 - Created and enhanced reports and dashboards for 8 datasets such as
-- Global Superstore,
+-  Global Superstore,
 - Sales, Student Info,
 - Sleep, Health,
 - Food Sales,
