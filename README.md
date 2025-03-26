@@ -5,5 +5,5 @@
 - Sleep, Health,
 - Food Sales,
 - Telecom Churn Prediction and
-- Titanic
+- Titanic Dataset Visualisation
 - *Utilized DAX in Power BI for data modeling, quick measures, and transformations*
